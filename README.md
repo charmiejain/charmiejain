@@ -19,14 +19,7 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 - **Languages:** Python, SQL, HTML5, CSS, JavaScript  
 - **Analytics & Visualization:** Microsoft Excel, Tableau, Power BI  
 - **Machine Learning:** Logistic Regression, SVM, KNN, Random Forest, K-Means  
-- **Platforms:** Salesforce (CRM, Certified Admin), , Vertex AI
-### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-
+- **Platforms:** Salesforce (CRM, Certified Admin),Vertex AI
 
 ---
 
@@ -56,6 +49,31 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charmiejain&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charmiejain&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=charmiejain&theme=radical&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charmiejain&theme=github-compact" />
+</p>
+
+---
+
+
 
 ### 💬 Let's Connect
 
