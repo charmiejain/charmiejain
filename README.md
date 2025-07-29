@@ -52,7 +52,6 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charmiejain&theme=radical" height="150" />
 </p>
----
 
 ### 💬 Let's Connect
 
