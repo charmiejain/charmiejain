@@ -49,31 +49,10 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charmiejain&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charmiejain&theme=radical" height="150" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charmiejain&theme=radical&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=charmiejain&theme=github-compact" />
-</p>
-
 ---
-
-
 
 ### 💬 Let's Connect
 
