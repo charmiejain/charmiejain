@@ -50,11 +50,9 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
   <a href="https://linkedin.com/in/charmiejain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charmiejain&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
 </p>
