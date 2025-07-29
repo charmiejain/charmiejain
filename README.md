@@ -20,6 +20,13 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 - **Analytics & Visualization:** Microsoft Excel, Tableau, Power BI  
 - **Machine Learning:** Logistic Regression, SVM, KNN, Random Forest, K-Means  
 - **Platforms:** Salesforce (CRM, Certified Admin), , Vertex AI
+### ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
 
 ---
 
@@ -44,15 +51,16 @@ I'm an aspiring Data Analyst & AI enthusiast skilled in Python, machine learning
 
 ---
 
-### 💬 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/charmiejain">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmiejain&layout=compact&theme=radical" height="150" />
 </p>
+
+### 💬 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/charmiejain">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+
